@@ -1,5 +1,5 @@
 title: Welcome to Braintree Support
 description:  Documentation, Support and Resources for Customisable Document Pack
-remote_theme: Braintree-by-Vox/Braintree-theme
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
